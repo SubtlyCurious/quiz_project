@@ -1,0 +1,32 @@
+{
+    "quizzes": [
+        {
+            "Quiz 1": [
+                {
+                    "question": "Is this blue?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "is this red>",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "Quiz 2": [
+                {
+                    "question": "Is this ok?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Is this reasonable?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Are you ok?",
+                    "answer": "yes"
+                }
+            ]
+        }
+    ]
+}
